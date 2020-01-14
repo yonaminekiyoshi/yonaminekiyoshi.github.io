@@ -1,0 +1,194 @@
+<!--?php get_header(); ?-->
+
+<html lang="ja"
+	prefix="og: https://ogp.me/ns#" >
+<head>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=640px, user-scalable=no, target-densitydpi=device-dpi">
+  <meta name="format-detection" content="telephone=no">
+
+  <meta charset="UTF-8">
+
+
+
+<!-- All in One SEO Pack 3.3.4 によって Michael Torbert の Semper Fi Web Design[,] -->
+<meta name="description"  content="ナオ株式会社のプライバシーポリシーをご案内するページです。ナオ株式会社はゲームが好きな全ての人に向け、アプリ・動画・情報を提供する企業です。" />
+
+<script type="application/ld+json" class="aioseop-schema">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://dxut8xcgvxp5.naoco.tv/#organization","url":"https://dxut8xcgvxp5.naoco.tv/","name":"\u30ca\u30aa\u682a\u5f0f\u4f1a\u793e\u30aa\u30d5\u30a3\u30b7\u30e3\u30eb\u30b5\u30a4\u30c8","sameAs":[]},{"@type":"WebSite","@id":"https://dxut8xcgvxp5.naoco.tv/#website","url":"https://dxut8xcgvxp5.naoco.tv/","name":"\u30ca\u30aa\u682a\u5f0f\u4f1a\u793e\u30aa\u30d5\u30a3\u30b7\u30e3\u30eb\u30b5\u30a4\u30c8","publisher":{"@id":"https://dxut8xcgvxp5.naoco.tv/#organization"},"potentialAction":{"@type":"SearchAction","target":"https://dxut8xcgvxp5.naoco.tv/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"WebPage","@id":"https://dxut8xcgvxp5.naoco.tv/privacy/#webpage","url":"https://dxut8xcgvxp5.naoco.tv/privacy/","inLanguage":"ja","name":"PRIVACY POLICY","isPartOf":{"@id":"https://dxut8xcgvxp5.naoco.tv/#website"},"datePublished":"2019-12-02T01:50:42+09:00","dateModified":"2020-01-09T03:10:09+09:00","description":"\u30ca\u30aa\u682a\u5f0f\u4f1a\u793e\u306e\u30d7\u30e9\u30a4\u30d0\u30b7\u30fc\u30dd\u30ea\u30b7\u30fc\u3092\u3054\u6848\u5185\u3059\u308b\u30da\u30fc\u30b8\u3067\u3059\u3002\u30ca\u30aa\u682a\u5f0f\u4f1a\u793e\u306f\u30b2\u30fc\u30e0\u304c\u597d\u304d\u306a\u5168\u3066\u306e\u4eba\u306b\u5411\u3051\u3001\u30a2\u30d7\u30ea\u30fb\u52d5\u753b\u30fb\u60c5\u5831\u3092\u63d0\u4f9b\u3059\u308b\u4f01\u696d\u3067\u3059\u3002\r\n"}]}</script>
+<link rel="canonical" href="https://dxut8xcgvxp5.naoco.tv/privacy/" />
+<meta property="og:type" content="activity" />
+<meta property="og:title" content="PRIVACY POLICY | ナオ株式会社オフィシャルサイト" />
+<meta property="og:description" content="ナオ株式会社のプライバシーポリシーをご案内するページです。ナオ株式会社はゲームが好きな全ての人に向け、アプリ・動画・情報を提供する企業です。" />
+<meta property="og:url" content="https://dxut8xcgvxp5.naoco.tv/privacy/" />
+<meta property="og:site_name" content="ナオ株式会社オフィシャルサイト" />
+<meta property="og:image" content="https://dxut8xcgvxp5.naoco.tv/wp/wp-content/plugins/all-in-one-seo-pack/images/default-user-image.png" />
+<meta property="og:image:secure_url" content="https://dxut8xcgvxp5.naoco.tv/wp/wp-content/plugins/all-in-one-seo-pack/images/default-user-image.png" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="PRIVACY POLICY | ナオ株式会社オフィシャルサイト" />
+<meta name="twitter:description" content="ナオ株式会社のプライバシーポリシーをご案内するページです。ナオ株式会社はゲームが好きな全ての人に向け、アプリ・動画・情報を提供する企業です。" />
+<meta name="twitter:image" content="https://dxut8xcgvxp5.naoco.tv/wp/wp-content/plugins/all-in-one-seo-pack/images/default-user-image.png" />
+<!-- All in One SEO Pack -->
+<link rel='dns-prefetch' href='//code.jquery.com' />
+<link rel='dns-prefetch' href='//kit.fontawesome.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='reset-css'  href='https://dxut8xcgvxp5.naoco.tv/wp/wp-content/themes/nao_v2/css/reset.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='main-style-css'  href='https://dxut8xcgvxp5.naoco.tv/wp/wp-content/themes/nao_v2/style.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='sub-style2-css'  href='https://dxut8xcgvxp5.naoco.tv/wp/wp-content/themes/nao_v2/css/privacy.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://dxut8xcgvxp5.naoco.tv/wp/wp-includes/css/dist/block-library/style.min.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://dxut8xcgvxp5.naoco.tv/wp/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.6' type='text/css' media='all' />
+<link rel='stylesheet' id='font02-css'  href='https://fonts.googleapis.com/css?family=Noto+Sans+JP&#038;ver=5.3.2' type='text/css' media='all' />
+<script type='text/javascript' src='https://code.jquery.com/jquery-3.4.1.min.js?ver=5.3.2'></script>
+<script type='text/javascript' src='https://kit.fontawesome.com/82c4e923a4.js?ver=5.3.2'></script>
+<script type='text/javascript' src='https://dxut8xcgvxp5.naoco.tv/wp/wp-content/themes/nao_v2/js/style.js?ver=5.3.2'></script>
+<link rel='https://api.w.org/' href='https://dxut8xcgvxp5.naoco.tv/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://dxut8xcgvxp5.naoco.tv/wp/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://dxut8xcgvxp5.naoco.tv/wp/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 5.3.2" />
+<link rel='shortlink' href='https://dxut8xcgvxp5.naoco.tv/?p=1833' />
+<link rel="alternate" type="application/json+oembed" href="https://dxut8xcgvxp5.naoco.tv/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdxut8xcgvxp5.naoco.tv%2Fprivacy%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://dxut8xcgvxp5.naoco.tv/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdxut8xcgvxp5.naoco.tv%2Fprivacy%2F&#038;format=xml" />
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-59005629-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-59005629-1');
+  </script>
+
+</head>
+
+
+
+<body class="page-template-default page page-id-1833">
+  <div class="foot-height">
+
+	<div class="titlecover" style="background-image:url(/wp/wp-content/themes/nao_v2/img/title/privacy.png); ">
+
+    <!--通常表示ヘッダ-->
+    <header class="default-header">
+
+      <div class="logo"><a href="/"><img src="/wp/wp-content/themes/nao_v2/img/nao-logo-long"></a></div>
+      <nav>
+        <ul class="gnav">
+          <li><a href="/company" class="nav_item">COMPANY<i class="menu-arrow"></i></a>
+            <ul>
+              <li><a href="/company/mission-value">MISSION/VALUE</a></li>
+              <li><a href="/company/about">ABOUT</a></li>
+              <li><a href="/company/message">MESSAGE</a></li>
+              <li><a href="/company/history">HISTORY</a></li>
+            </ul>
+          </li>
+
+          <li><a href="/news" class="nav_item">NEWS</a></li>
+          <li><a href="/service" class="nav_item">SERVICE<i class="menu-arrow"></i></a>
+            <ul>
+              <li><a href="/service/naonavi">NAONAVI</a></li>
+              <li><a href="/service/studio">NAOSTUDIO</a></li>
+              <li><a href="/service/ncn">NCN</a></li>
+              <li><a href="/service/apply">APPLY</a></li>
+            </ul>
+          </li>
+          <li><a href="/culture" class="nav_item">CULTURE</a>
+          </li>
+          <li><a href="/recruit" class="nav_item">RECRUIT</a></li>
+          <li><a href="/contact" class="nav_item">CONTACT</a></li>
+        </ul>
+      </nav>
+
+    </header>
+
+    <!-- SPナビメニュー部分 -->
+    <nav class="NavMenu">
+      <ul>
+        <li class="logo"><a href="/"><img src="/wp/wp-content/themes/nao_v2/img/nao-logo-long.svg"></a></li>
+        <li><a href="/company" class="nav_item">　COMPANY　</a></li>
+        <li><a href="/news" class="nav_item">　NEWS　</a></li>
+        <li><a href="/service" class="nav_item">　SERVICE　</a></li>
+        <li><a href="/culture" class="nav_item">　CULTURE　</a></li>
+        <li><a href="/recruit" class="nav_item">　RECRUIT　</a></li>
+        <li><a href="/contact" class="nav_item">　CONTACT　</a></li>
+      </ul>
+    </nav>
+    <!-- ハンバーガーメニュー部分 -->
+    <div class="Toggle">
+      <span></span>
+      <span></span>
+      <span></span>
+    </div>
+
+	<!-- タイトル -->
+    <div class="entry-header">
+<div class="whiteline">
+    	<h1 class="entry-title">SECURITY POLICY</h1>
+    	<span>セキュリティーポリシー</sapn>
+    </div>
+</div>
+	</div>
+
+
+
+<article id="post-1833" class="post-1833 page type-page status-publish hentry">
+    <div class="entry-content">
+		    </div>
+
+</article>
+
+  <main>
+<br><br><br><br>
+
+<center><div class="link"><b>
+    <a href="#1">セキュリティポリシーについて</a>
+  </b></div></center>
+
+<br><a name="1"><br></a><br><br>
+
+    <div class="privacy">
+
+<br>
+      <p>ナオ株式会社（以下「当社」）では、サイトをご利用の際にCookieと呼ばれる情報をご利用のコンピューターに送る場合があり、その情報はハードディスクまたはメモリーに保存されます。</p>
+      <p>Cookieは会員制サービスや広告管理システムなど、より良いサービスをご提供する目的で使用するものであり、利用者の皆さまのプライバシー、またはご利用環境を侵すことはありません。</p>
+      <p>利用者の皆さまが設定を変更することにより、Cookieの機能を停止することも可能ですが、その場合は、これらのサービスを受けることができなくなりますのでご了承ください。</p>
+
+<br>
+
+    </div>
+  </main>
+
+</div>
+
+<footer id="footer" class="footer-contents">
+
+  <ul>
+    <li class="logo"><a href="/"><img src="/wp/wp-content/themes/nao_v2/img/nao-logo-short.svg" alt="nao_inc_logo"></a></li>
+    <li>
+      <a href="https://twitter.com/naoco_tv" target="_blank"><i class="fab fa-twitter fa-fw"></i></a>
+      <a href="https://www.facebook.com/nao.inc/" target="_blank"><i class="fab fa-facebook-f fa-fw"></i></a></li>
+      <li><a href="/privacy">個人情報保護方針</a> ┃ <a href="/security">セキュリティーポリシー</a> ┃ <a href="/contact">お問い合わせ</a></li>
+      <li>&copy; nao inc. All Rights Reserved.</li>
+    </ul>
+  </footer>
+
+  <script type="text/javascript">
+  $(function() {
+    $('.Toggle').click(function() {
+      $(this).toggleClass('active');
+
+      if ($(this).hasClass('active')) {
+        $('.NavMenu').addClass('active');　 //クラスを付与
+      } else {
+        $('.NavMenu').removeClass('active'); //クラスを外す
+      }
+    });
+  });
+  </script>
+
+</body>
+
+
+
+</html>
